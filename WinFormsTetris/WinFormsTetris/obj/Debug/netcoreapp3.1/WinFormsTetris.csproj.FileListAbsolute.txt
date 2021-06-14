@@ -1,0 +1,29 @@
+C:\Users\kdw\source\repos\WinFormsTetris\WinFormsTetris\bin\Debug\netcoreapp3.1\WinFormsTetris.exe
+C:\Users\kdw\source\repos\WinFormsTetris\WinFormsTetris\bin\Debug\netcoreapp3.1\WinFormsTetris.deps.json
+C:\Users\kdw\source\repos\WinFormsTetris\WinFormsTetris\bin\Debug\netcoreapp3.1\WinFormsTetris.runtimeconfig.json
+C:\Users\kdw\source\repos\WinFormsTetris\WinFormsTetris\bin\Debug\netcoreapp3.1\WinFormsTetris.runtimeconfig.dev.json
+C:\Users\kdw\source\repos\WinFormsTetris\WinFormsTetris\bin\Debug\netcoreapp3.1\WinFormsTetris.dll
+C:\Users\kdw\source\repos\WinFormsTetris\WinFormsTetris\bin\Debug\netcoreapp3.1\WinFormsTetris.pdb
+C:\Users\kdw\source\repos\WinFormsTetris\WinFormsTetris\obj\Debug\netcoreapp3.1\WinFormsTetris.Form1.resources
+C:\Users\kdw\source\repos\WinFormsTetris\WinFormsTetris\obj\Debug\netcoreapp3.1\WinFormsTetris.csproj.GenerateResource.cache
+C:\Users\kdw\source\repos\WinFormsTetris\WinFormsTetris\obj\Debug\netcoreapp3.1\WinFormsTetris.AssemblyInfoInputs.cache
+C:\Users\kdw\source\repos\WinFormsTetris\WinFormsTetris\obj\Debug\netcoreapp3.1\WinFormsTetris.AssemblyInfo.cs
+C:\Users\kdw\source\repos\WinFormsTetris\WinFormsTetris\obj\Debug\netcoreapp3.1\WinFormsTetris.csproj.CoreCompileInputs.cache
+C:\Users\kdw\source\repos\WinFormsTetris\WinFormsTetris\obj\Debug\netcoreapp3.1\WinFormsTetris.dll
+C:\Users\kdw\source\repos\WinFormsTetris\WinFormsTetris\obj\Debug\netcoreapp3.1\WinFormsTetris.pdb
+C:\Users\kdw\source\repos\WinFormsTetris\WinFormsTetris\obj\Debug\netcoreapp3.1\WinFormsTetris.genruntimeconfig.cache
+C:\Users\kdw\source\repos\WinFormsTetris\WinFormsTetris\obj\Debug\netcoreapp3.1\WinFormsTetris.csprojAssemblyReference.cache
+C:\Users\kbj52\OneDrive\바탕 화면\WinFormsTetris\WinFormsTetris\bin\Debug\netcoreapp3.1\WinFormsTetris.exe
+C:\Users\kbj52\OneDrive\바탕 화면\WinFormsTetris\WinFormsTetris\bin\Debug\netcoreapp3.1\WinFormsTetris.deps.json
+C:\Users\kbj52\OneDrive\바탕 화면\WinFormsTetris\WinFormsTetris\bin\Debug\netcoreapp3.1\WinFormsTetris.runtimeconfig.json
+C:\Users\kbj52\OneDrive\바탕 화면\WinFormsTetris\WinFormsTetris\bin\Debug\netcoreapp3.1\WinFormsTetris.runtimeconfig.dev.json
+C:\Users\kbj52\OneDrive\바탕 화면\WinFormsTetris\WinFormsTetris\bin\Debug\netcoreapp3.1\WinFormsTetris.dll
+C:\Users\kbj52\OneDrive\바탕 화면\WinFormsTetris\WinFormsTetris\bin\Debug\netcoreapp3.1\WinFormsTetris.pdb
+C:\Users\kbj52\OneDrive\바탕 화면\WinFormsTetris\WinFormsTetris\obj\Debug\netcoreapp3.1\WinFormsTetris.Form1.resources
+C:\Users\kbj52\OneDrive\바탕 화면\WinFormsTetris\WinFormsTetris\obj\Debug\netcoreapp3.1\WinFormsTetris.csproj.GenerateResource.cache
+C:\Users\kbj52\OneDrive\바탕 화면\WinFormsTetris\WinFormsTetris\obj\Debug\netcoreapp3.1\WinFormsTetris.AssemblyInfoInputs.cache
+C:\Users\kbj52\OneDrive\바탕 화면\WinFormsTetris\WinFormsTetris\obj\Debug\netcoreapp3.1\WinFormsTetris.AssemblyInfo.cs
+C:\Users\kbj52\OneDrive\바탕 화면\WinFormsTetris\WinFormsTetris\obj\Debug\netcoreapp3.1\WinFormsTetris.csproj.CoreCompileInputs.cache
+C:\Users\kbj52\OneDrive\바탕 화면\WinFormsTetris\WinFormsTetris\obj\Debug\netcoreapp3.1\WinFormsTetris.dll
+C:\Users\kbj52\OneDrive\바탕 화면\WinFormsTetris\WinFormsTetris\obj\Debug\netcoreapp3.1\WinFormsTetris.pdb
+C:\Users\kbj52\OneDrive\바탕 화면\WinFormsTetris\WinFormsTetris\obj\Debug\netcoreapp3.1\WinFormsTetris.genruntimeconfig.cache

@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Media;
 
 namespace WinFormsTetris
 {
@@ -20,15 +21,30 @@ namespace WinFormsTetris
         public static int score;
         Random random;
 
+        private SoundPlayer soundPlayer;
+
+
         public Form1()  //생성자
         {
             InitializeComponent();
+            soundPlayer  = new SoundPlayer("Ring10.wav");
           
         }
-       
+
+        private void playSimpleSound()
+        {
+            simpleSound.PlaySync();
+            
+        }
+
 
         private void Form1_Load(object sender, EventArgs e) //Start()
         {
+
+            soundPlayer.Play();
+
+
+
             random = new Random();
             game = Game.Singleton;
             bx = GameRule.BX;
@@ -36,6 +52,7 @@ namespace WinFormsTetris
             bwidth = GameRule.B_WIDTH;
             bheight = GameRule.B_HEIGHT;
             this.SetClientSizeCore(GameRule.BX * GameRule.B_WIDTH, GameRule.BY * GameRule.B_HEIGHT);
+            playSimpleSound();
         }
 
         private void Form1_Paint(object sender, PaintEventArgs e) //Update()
